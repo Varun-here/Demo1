@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello this is the sample text 4 u.
+=======
+I changed it.
+>>>>>>> e90c85d33c274c4aa083346cda41ccf340c423e6
